@@ -1,0 +1,62 @@
+[
+	{
+		"hiragana_letter": "ん",
+		"latin_letter": "n"
+	},
+	{
+		"hiragana_letter": "ち",
+		"latin_letter": "chi"
+	},
+	{
+		"hiragana_letter": "さ",
+		"latin_letter": "sa"
+	},
+	{
+		"hiragana_letter": "よ",
+		"latin_letter": "yo"
+	},
+	{
+		"hiragana_letter": "い",
+		"latin_letter": "i"
+	},
+	{
+		"hiragana_letter": "は",
+		"latin_letter": "ha"
+	},
+	{
+		"hiragana_letter": "に",
+		"latin_letter": "ni"
+	},
+	{
+		"hiragana_letter": "か",
+		"latin_letter": "ka"
+	},
+	{
+		"hiragana_letter": "し",
+		"latin_letter": "shi"
+	},
+	{
+		"hiragana_letter": "あ",
+		"latin_letter": "a"
+	},
+	{
+		"hiragana_letter": "く",
+		"latin_letter": "ku"
+	},
+	{
+		"hiragana_letter": "な",
+		"latin_letter": "na"
+	},
+	{
+		"hiragana_letter": "ろ",
+		"latin_letter": "ro"
+	},
+	{
+		"hiragana_letter": "う",
+		"latin_letter": "u"
+	},
+	{
+		"hiragana_letter": "お",
+		"latin_letter": "o"
+	}
+]
